@@ -1,0 +1,28 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+ - It took a working version and showed me just what I changed so I could narrow it down to the most likely places a bug would be found.
+
+How could having easy access to the entire history of a file make you a more effecient programmer in the long term?
+ - Being able to continually test and check for bugs efficiently will make everything so much easier in the long run. You could check the file of any point and time against it at any other point in time to easily find the most effective version and any errors.
+
+ What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved like Google docs does?
+
+  - When you are dealing with something with the complexiy of a computer program having a bunch of automatically saved documents swould just be clutter, because each save would still be a slog of information you'd have to go through to figure out where you went wrong. If you have a save at each logical progression it makes it an asset because you can test against each point of progress to figure out where you went wrong. In addition when you need to make changes later on I could see it making a handy resource to refrence.
+
+  Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+   - Because Git deals with documents that are connected and depend on eachother wheras Google Docs is mostly dealing with independant files.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+ - You can use git log to bring up everything you've done and git diff to compare them.
+
+ How might using version control make you more confident to make changes that could break something?
+
+  - Because I could always go back and fix it later.
+
+  Now that you have your workspace set up, what do you want to try using Git for?
+
+   - Doing the JavaScript course
+
+     

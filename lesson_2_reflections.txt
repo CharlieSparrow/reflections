@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+ - .git file is created and inherits all the behaviors a repository has
+
+ How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  - Well the concept of any "staging area" is to a place off the main stage, where you're commited, to make decisions and see how things fit together.
