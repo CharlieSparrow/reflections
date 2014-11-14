@@ -25,4 +25,6 @@ How can you use the commands git log and git diff to view the history of files?
 
    - Doing the JavaScript course
 
-     
+   How can you use the staging are to make sure you have one commit per logical change?
+
+    - You could stage things out, do a little more work then see if what you've done since makes sense to add or not.  
