@@ -9,3 +9,7 @@ What happens when you initialize a repository? Why do you need to do it?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	- You get the best of both versions merged into one. We represent it the way we do on the diagram because at the point of the merge they become one path with both unique paths still existing. 
+
+What are the pros and cons of Git's automatic merging vs always doing the merges manually?
+
+	- With a manual merge you are insuring that everytihng is combined the way you want it to. However it is very time consuming and if you trust Git to catch conflicts you can then correct those manually anyway.
