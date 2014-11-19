@@ -5,3 +5,7 @@ What happens when you initialize a repository? Why do you need to do it?
  How is the staging area different from the working directory and the repository? What value do you think it offers?
 
   - Well the concept of any "staging area" is to a place off the main stage, where you're commited, to make decisions and see how things fit together.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	- You get the best of both versions merged into one. We represent it the way we do on the diagram because at the point of the merge they become one path with both unique paths still existing. 
